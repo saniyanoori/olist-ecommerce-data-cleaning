@@ -116,10 +116,6 @@ Cleaned files are written to the `Clean Files/` folder.
 
 ---
 
-## 🔗 Related Work
-
-The same dataset is used in an end-to-end Databricks analytics and ML project: [Build_With_Databricks_RPC](https://github.com/saniyanoori/Build_With_Databricks_RPC).
-
 ## 🙏 Data Source
 
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle, CC BY-NC-SA 4.0).
